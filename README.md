@@ -79,6 +79,18 @@ Interactive report design
 Banking data analysis
 Data storytelling
 
+## Dashboard Preview
+
+### Customer Overview
+![Page 1](screenshots/page1.png)
+
+### Deposits & Balances
+![Page 2](screenshots/page2.png)
+
+### Demographics
+![Page 3](screenshots/page3.png)
+
 
 Author
+
 Somaye Shafiee
