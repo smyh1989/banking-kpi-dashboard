@@ -82,13 +82,13 @@ Data storytelling
 ## Dashboard Preview
 
 ### Customer Overview
-![Page 1](screenshots/page1.png)
+![Page 1](Screenshots/page1.png)
 
 ### Deposits & Balances
-![Page 2](screenshots/page2.png)
+![Page 2](Screenshots/page2.png)
 
 ### Demographics
-![Page 3](screenshots/page3.png)
+![Page 3](Screenshots/page3.png)
 
 
 Author
