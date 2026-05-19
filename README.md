@@ -25,16 +25,16 @@ Using Power Query:
 - DAX Measures
 - Total Customers = COUNTROWS(Customers)
 
-Churned Customers =
+- Churned Customers =
 CALCULATE(
     COUNTROWS(Customers),
     Customers[Exited] = 1
 )
 
-Churn Rate =
+- Churn Rate =
 DIVIDE([Churned Customers], [Total Customers])
 
-Avg Balance =
+- Avg Balance =
 AVERAGE(Customers[Balance])
 Dashboard Pages
 Page 1 — Customer Overview
